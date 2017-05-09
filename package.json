@@ -1,0 +1,15 @@
+{
+  "name": "ping-me-ui",
+  "version": "1.0.0",
+  "description": "ui project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Suryaprakash",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://surya-pingme@bitbucket.org/pingmekart/surya-frame-work.git"
+  }
+}
